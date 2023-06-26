@@ -1,4 +1,4 @@
-public class Card {
+public class Card{
     public String name;
 
     public Card(String name) {
